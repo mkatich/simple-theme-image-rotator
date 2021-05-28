@@ -1,0 +1,15 @@
+Simple Theme Image Rotator
+Instructions
+
+----------------------------
+Installation:
+
+1. Unzip into /wp-content/plugins/ folder.
+
+2. Create a directory in your /wp-content/ folder named "stir-user-images". This is where your images will be stored.
+
+3. Activate the plugin from the admin panel.
+
+4. Go to 'Settings' in the admin panel, and then 'Simple Theme Image Rotator' to configure and upload images.
+
+5. Enjoy!
