@@ -1,5 +1,5 @@
 # simple-theme-image-rotator
-Rotate the banner image of your Wordpress site to show a different one each day, week, hour, etc., or even random on each page load. There are plenty of options for rotation period. Put your images in wp-content/stir-user-images/ directory and this plugin will recognize them, and load the current one depending on what day/time it is.
+Rotate the banner image of your Wordpress site to show a different one each day, week, hour, etc., or even random on each page load. There are plenty of options for rotation period. Put your images in your /wp-content/stir-user-images/ directory and this plugin will recognize them, and load the current one depending on what day/time it is.
 
 Installation:
 1. Unzip into /wp-content/plugins/ folder.
