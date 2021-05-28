@@ -7,3 +7,5 @@ Installation:
 3. Activate the plugin from the admin panel.
 4. Go to 'Settings' in the admin panel, and then 'Simple Theme Image Rotator' to configure and upload images.
 5. Enjoy!
+
+![Screenshot2](https://user-images.githubusercontent.com/17580674/119939369-5e498780-bf53-11eb-817a-bed5b9a2a29e.PNG)
